@@ -1,1 +1,3 @@
 # HMS-Dashboard-on-Power-Bi
+This project presents an Advanced Business Analytics Dashboard built with Power BI using a Hospital Management System dataset. The dashboard analyzes data from multiple sources including Patients, Doctors, Appointments, Billing, and Treatments to generate actionable insights for hospital management.
+Through data cleaning, modeling, and DAX measures, the dashboard provides interactive visualizations for key metrics such as total patients, revenue trends, appointment completion rates, doctor workload, and department performance. The project applies descriptive, diagnostic, and predictive analysis to support data-driven decision making and improve hospital operational efficiency.
